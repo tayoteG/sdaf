@@ -1,0 +1,151 @@
+ html body{
+    font-family: 'Roboto', sans-serif;
+    color: #ffff;
+    margin: 0;
+}
+
+.tayotegyi{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    background-color: #1F1F1F;
+    
+}
+
+.coloum{
+    width: 400px;
+    /* height: ; */
+    background-color: #282828;
+    margin: 10px;
+    padding: 20px;
+    border-radius: 5px;
+}
+
+.box{
+    color: #ffff;
+    font-size: 18px;
+    margin-bottom: 15px;
+}
+
+.images{
+    overflow: hidden;
+    width: 400px;
+    height: 230px;
+    border-radius: 3px;
+}
+
+.image{
+    width: 100%;
+    margin-top: -37px; 
+}
+
+.ta{
+    margin: 20px 0;
+    color: #ffff;
+    font-size: 14px;
+}
+
+.tay{
+    display: flex;
+    justify-content: space-between;
+    padding: 5px;
+    margin-bottom: 10px;
+    font-size: 12px;
+}
+
+.ote{
+    margin-bottom: 30px;
+}
+
+.click{
+    color: #3EA5FE;
+}
+
+.click1{
+    color:#3EA5FE;
+    margin: 15px 0 ;
+}
+
+/* second type */
+
+.coloum1{
+    width: 400px;
+    height: 410px ;
+    background-color: #282828;
+    margin: 10px;
+    padding: 20px;
+    border-radius: 5px;
+}
+
+.yin{
+    margin-bottom: 10px;
+    font-size: 12px;
+}
+
+.zero{
+    font-size: 30px;
+    margin-bottom: 50px;
+}
+
+.line{
+    height: 1px;
+    background-color: gray;
+}
+
+.sU{
+    margin: 15px 0;
+}
+
+.op{
+    opacity: 0.6;
+}
+
+/* thirdtype */
+
+.coloum2{
+    width: 400px;
+    height: 270px ;
+    background-color: #282828;
+    margin: 10px;
+    padding: 20px;
+    border-radius: 5px;
+}
+
+.main{
+    display: flex;
+    justify-content: space-between;
+    font-size: 14px;
+}
+
+.main div{
+    width: 250px;
+}
+
+.main img{
+    width: 125px;
+    height: 125px;
+    
+}
+
+.pro{
+    margin-bottom: 10px;
+    font-size: 12px;
+}
+
+.click2{
+    margin-top: 60px;
+}
+
+.box1{
+    width: 400px;
+    background-color:#1F1F1F ;
+
+}
+
+.naymyowin{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    background-color: #1F1F1F;
+    
+}
